@@ -5,4 +5,3 @@ And this is what i made another one, https://github.com/HaNerW10/Solarspheres-Ey
 |Base|
 |:---:|
 | 2 |
-| id |
