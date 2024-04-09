@@ -2,6 +2,6 @@
 Feel free to ask me to change or add something.
 And this is what i made another one, https://github.com/HaNerW10/Solarspheres-Eyes-Mouth/releases
 # How many total eyes and base are there?
-|Base|
-|:---:|
-| 2 |
+|Base|Eyes|
+|:---:|:---:|
+| 2 | 37 |
